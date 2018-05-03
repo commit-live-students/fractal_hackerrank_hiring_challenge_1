@@ -1,4 +1,4 @@
-# Fractal_Hackerrank_Challenge
+# Fractal Hackerrank Challenge
 
 ## Longest Even Length Word
 
