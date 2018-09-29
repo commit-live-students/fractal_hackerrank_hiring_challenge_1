@@ -6,12 +6,12 @@ import re
 # Write your solution here :
 def q01_longest_even_word(sentence):
     tems = [ word for word in sentence.split() if len(word) % 2 == 0]
-    if max(tems, key=len)== '' :
+    if not tems:
         return 0
     else:
         return max(tems, key=len)
 
-
+re
 
 
 
